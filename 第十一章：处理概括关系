@@ -1,1 +1,18 @@
-11
+##  摘要：本章讲述在对象的设计过程中，用一种专门的手法处理类的继承关系
+### 1 上移
+#### 1.1 Pull Up Field（字段上移）
+#### 1.2 Pull Up Method（函数上移）
+#### 1.3 Pull Up Constructor Body（构造函数本体上移）
+### 2 下移
+#### 2.1 Push Down Method（函数下移）
+#### 2.2 Push Down Field（字段下移）
+#### 2.3 Extract Subclass（提炼子类）
+### 3 提炼
+#### 2.1 Extract BaseClass（提炼基类）
+#### 2.2 Extract Interface（提炼接口）
+#### 2.3 Collapse Hierarchy（折叠继承体系）
+### 4 继承与委托
+#### 4.1 Replace Inheritance with Delegation（以委托取代继承）
+#### 4.2 Replace Delegation with Inheritance（以继承取代委托）
+### 5 模板
+####5.1Form Template Method（塑造模板函数）
